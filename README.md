@@ -1,2 +1,2 @@
 # CPSC425
-course worl
+course work
